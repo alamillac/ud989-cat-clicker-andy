@@ -1,0 +1,9 @@
+# Current goal
+* cleant the js app:
+    * create (view, model, octopus) and test it
+        * create a view for the list of cats
+
+# Previous goals
+* clean the html index page:
+    * I need to leave only 2 views (One for the list of cats and the other for the details of the selected cat)
+* Create a simple test structure
